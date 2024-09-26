@@ -1,3 +1,3 @@
 
 
-skibidi W
+skibidi

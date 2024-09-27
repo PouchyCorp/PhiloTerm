@@ -1,0 +1,1 @@
+Emmanuel Kant, né le 22 avril ==**1724**== à Königsberg en Prusse (aujourd'hui appelée Kaliningrad en Russie), et mort le 12 février **==1804==** dans cette même ville, est un philosophe prussien, fondateur du criticisme et de la doctrine dite « idéalisme transcendantal ».

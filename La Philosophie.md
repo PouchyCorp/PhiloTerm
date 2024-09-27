@@ -1,2 +1,0 @@
-[[La Science]]
-[[La Technique]]

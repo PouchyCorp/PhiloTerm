@@ -1,0 +1,1 @@
+René Descartes est un mathématicien, physicien et philosophe français, né le 31 mars 1596 à La Haye-en-Touraine et mort le 11 février 1650 à Stockholm. 

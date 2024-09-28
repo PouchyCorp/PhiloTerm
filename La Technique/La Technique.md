@@ -5,7 +5,20 @@ Au Moyen Âge, la « techne » n'était pas considérée comme un savoir noble, 
 
 Au XVIIe siècle, la technique constitue l'application de la science et l'homme devient de plus en plus conscient de son impact sur le quotidien. Le projet cartésien, ( voir [[René Descartes]] ) d'une science universelle.
 
+Se dis
 
-**Aristote et technique **: 
+**Aristote et technique: 
  
  [[Aristote]] : Pour lui, la technê est une forme de savoir pratique, orientée vers l’efficacité et la transformation du monde, différente de la connaissance théorique (épistémè).
+ 
+Def rigoureuse: "Une disposition vers la creation et accompagnée de raison"
+
+### 3 Auteurs pour les dangers de la technique:
+
+[[Etienne de la Boetie]]
+
+[[Gunter Anders]]
+"Honte prométhéenne" -> obsolescence de l'Homme face au machines
+
+[[G. Jung]]
+

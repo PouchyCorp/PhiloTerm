@@ -15,3 +15,6 @@ Mais la définition du terme est très flou:
 
 Ainsi pour [[André Gorz]] laisse pensé que plus de produire des marchandise, le travail rend marchandise les travailleurs. On se vend sur un marché du travail quit à en oublier les études.
 Le travail est aliénant (terme de [[Karl Marx]] ).
+
+Le travail est-il omniprésent ?
+Le travail peut aussi être autre chose que la création de bien marchands, on peut parler de travail domestique mais **non économique**. Exemple : femme au foyer. La femme que foyer ne travail pas économiquement mais travail à créer des relations sociales, éduquer ses enfants .

@@ -2,8 +2,9 @@ René Descartes est un mathématicien, physicien et philosophe français, né le
 
 Citation [[La Technique]]:
 ""nous pourrions les {les connaissances en physique} employer en même façon à tous les usages     auxquels ils sont propres et ainsi **nous rendre comme maîtres et possesseurs de la nature**"
+*Discours de la méthode*
 
 'comme'  -> cette connaissance sera toujours imparfaite, car Dieu est le réel maitre de la nature
 
-Avant lui, la science était contemplation des vérités, elle doit devenir utile aux hommes
-([[La Technique]]). Avant [[Karl Marx]], Descartes déclare que la pensée théorique est stérile.
+Avant lui, la [[La Science]] était contemplation des vérités, elle doit devenir utile aux hommes
+([[La Technique]]). Avant Karl Marx, Descartes déclare que la pensée théorique est stérile.

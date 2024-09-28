@@ -22,3 +22,6 @@ Def rigoureuse: "Une disposition vers la creation et accompagnée de raison"
 
 [[G. Jung]]
 
+### La technique et le travail
+
+"Le progrès technique est une **destruction créatrice** d'emploi" J. Schumpeter

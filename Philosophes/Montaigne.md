@@ -1,0 +1,1 @@
+Michel Eyquem de Montaigne, seigneur de Montaigne, plus connu sous la simple dénomination de Montaigne, né le 28 février 1533 et mort le 13 septembre 1592 est un philosophe, humaniste, écrivain érudit et moraliste français de la Renaissance. 

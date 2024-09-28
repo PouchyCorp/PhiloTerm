@@ -1,17 +1,27 @@
 Dans toutes les sociétés humaines, des normes dictant ce qui est bien ou mal encadrent les comportements et les interactions. Mais ces règles que nous suivons, souvent sans les remettre en question, sont-elles le reflet d'une vérité universelle ou simplement le produit de nos accords sociaux ? 
 ### Intro dissertation de Taddeo 
 
-Le terme morale tire son origine du latin *moralis*, dérivé de *mores*, qui signifie "moeurs " ou bien "coutumes". Des l'étymologie, la morale semble étroitement liée aux pratiques sociales. Celle-ci semble dictée par les notions de bien et de mal. Tandis que convention sociale renvoie à un accord souvent implicite entre les membres d'une société pour jugé des normes de comportement soit accepté ou non. On retrouve bien dans les deux termes l'idée d'opposition entre acceptable et inacceptable. 
+Le terme morale tire son origine du latin _moralis_, dérivé de _mores_, qui signifie "mœurs" ou "coutumes". Dès son étymologie, la morale semble étroitement liée aux pratiques sociales. Elle apparaît comme dictée par les notions de bien et de mal, tandis que la convention sociale renvoie à un accord, souvent implicite, entre les membres d'une société pour juger des normes de comportement, soit acceptées, soit rejetées. Dans ces deux termes, on retrouve bien cette idée de distinction entre ce qui est acceptable et inacceptable.
 
-interrogation qui concerne le bien et le mal.
- On dit qq de moral quand il réalise de bonnes actions.
- 
-Le questionnement poser nous interroge sur la nature de la morale et surtout sa provenance. N'est- elle uniquement le fruit d'un accord entre personnes établis il y'a de longues années ou bien perpétuellement remit en cause. Est-ce que l'humain a été doté d'une morale à sa naissance ou à sa création. Est ce une réflexion de raison ?
-Pour explorer ces interrogations, nous allons d'abord montrer que la morale peut être considérée comme une convention sociale, puis nous examinerons les arguments qui soutiennent l'idée qu'elle transcende l'humain, et enfin, nous proposerons des réflexions plus poussées sur la morale et son rôle dans notre société.
+La question qui nous est posée concerne cette notion de bien et de mal. On qualifie quelqu'un de moral lorsqu'il accomplit des actions jugées bonnes. Ce questionnement nous invite donc à réfléchir sur la nature même de la morale, mais aussi sur son origine. Est-elle simplement le résultat d'un accord entre les individus, établi il y a des siècles, ou bien est-elle en perpétuelle évolution ? L'humain est-il doté d'une morale dès sa naissance ou depuis sa création ? La morale est-elle le fruit de la raison ?
+
+Pour répondre à ces interrogations, nous montrerons d'abord que la morale peut être considérée comme une convention sociale. Ensuite, nous examinerons les arguments qui soutiennent l'idée qu'elle transcende l'humain. Enfin, nous proposerons des réflexions plus poussées sur la morale et son rôle dans notre société.
 
 "un système de règles de conduite" [[Emile Durkheim]] Une réponse Sociologique de la provenance de La morale. 
 
 Vidéo simple explication de la morale https://youtu.be/HlY7QBapCM4?si=f4vWAiNJXlsW9C8Q avec [[Emile Durkheim]]
+
+
+Premiere Partie
+
+
+Premièrement, on peut penser, comme l'indique le questionnement principal, que la morale est uniquement et seulement une convention sociale. En effet, on peut se pencher sur la diversité des systèmes moraux à travers les continents et les époques : les différentes sociétés ont établi chacune des normes morales distinctes.
+
+Dans certaines civilisations, par exemple, la polygamie est acceptée dans les mœurs, tandis que dans d'autres, elle est perçue comme moralement répréhensible. De la même manière que le cannibalisme, accepté autrefois dans certaines tribus, est actuellement condamné par les sociétés occidentales. Ces exemples démontrent bien comment les jugements moraux sont relatifs au contexte des autorités sociales dans lesquels ils émergent. Ceci rejoint la réflexion de **Montaigne** dans ses _Essais_, où il démontre que chaque société, en fonction de ses coutumes, produit des règles morales qui peuvent paraître incompréhensibles ou même choquantes aux yeux d’autres cultures. Cette diversité morale suggère donc que la morale n'est pas universelle, mais relative.
+
+Ainsi, on peut aborder la thèse de [[Karl Marx]] sur l'infrastructure économique, qui correspond aux bases économiques, et la superstructure, qui englobe les institutions, la culture, la politique ainsi que les systèmes de croyances dont font partie les jugements moraux. Cela signifie que la manière dont une société produit ses biens et organise ses relations économiques influence directement les normes morales. Ainsi, la morale n'est pas un ensemble de valeurs transcendantes ou universelles, mais un reflet de la situation économique et sociale d'un État.
+
+On retrouve également cette idée chez [[Emile Durkheim]], qui dans _Les Formes élémentaires de la vie religieuse_, affirme que la morale est un produit des sociétés, destinée à assurer la cohésion sociale. Les règles morales sont donc façonnées par les besoins collectifs d'une communauté à un moment donné, ce qui confirme leur caractère contingent.
 
 
 [[Friedrich Nietzsche]]

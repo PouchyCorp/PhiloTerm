@@ -1,4 +1,6 @@
 Dans toutes les sociétés humaines, des normes dictant ce qui est bien ou mal encadrent les comportements et les interactions. Mais ces règles que nous suivons, souvent sans les remettre en question, sont-elles le reflet d'une vérité universelle ou simplement le produit de nos accords sociaux ? 
+
+===tu devrais parler de Machiavel===
 ### Intro dissertation de Taddeo 
 
 Le terme morale tire son origine du latin _moralis_, dérivé de _mores_, qui signifie "mœurs" ou "coutumes". Dès son étymologie, la morale semble étroitement liée aux pratiques sociales. Elle apparaît comme dictée par les notions de bien et de mal, tandis que la convention sociale renvoie à un accord, souvent implicite, entre les membres d'une société pour juger des normes de comportement, soit acceptées, soit rejetées. Dans ces deux termes, on retrouve bien cette idée de distinction entre ce qui est acceptable et inacceptable.

@@ -1,0 +1,3 @@
+Paul Lafargue, né le 15 janvier 1842 à Santiago de Cuba et mort le 25 novembre 1911 à Draveil (France), est un journaliste, économiste, essayiste, écrivain et homme politique socialiste français.
+
+Époux de Laura Marx et ainsi gendre de Karl Marx, il est surtout connu pour son essai Le Droit à la paresse. Il a été militant de l'Association internationale des travailleurs, de la franc-maçonnerie, du Parti ouvrier français, du Parti socialiste de France et de la Section française de l'Internationale ouvrière. 

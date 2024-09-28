@@ -1,0 +1,3 @@
+Guy Debord, né le 28 décembre 1931 à Paris et mort le 30 novembre 1994 à Bellevue-la-Montagne en Haute-Loire, est un écrivain, théoricien, cinéaste, poète4 et révolutionnaire conseilliste français.
+
+Il se considérait avant tout comme un stratège. Il est celui qui a conceptualisé6 la notion sociopolitique de « spectacle », développée dans son œuvre la plus connue, La Société du spectacle (1967). Debord a été l'un des fondateurs de l'Internationale lettriste de 1952 à 1957, puis de l'Internationale situationniste de 1957 à 1972, dont il a dirigé la revue française. 

@@ -1,0 +1,3 @@
+André Gorz, de son vrai nom Gérard Horst, né le 9 février 1923 à Vienne et mort le 22 septembre 2007 à Vosnon (Aube), est un philosophe et journaliste français.
+
+Sa pensée oscille entre philosophie, théorie politique et critique sociale. Disciple de l'existentialisme de Jean-Paul Sartre, puis admirateur d'Ivan Illich, il devient dans les années 1970 l'un des principaux théoriciens de l'écologie politique et de la décroissance. Il est cofondateur en 1964 du Nouvel Observateur, sous le pseudonyme de Michel Bosquet, avec Jean Daniel. 

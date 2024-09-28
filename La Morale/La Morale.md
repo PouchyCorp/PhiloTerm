@@ -12,7 +12,7 @@ Pour répondre à ces interrogations, nous montrerons d'abord que la morale peut
 Vidéo simple explication de la morale https://youtu.be/HlY7QBapCM4?si=f4vWAiNJXlsW9C8Q avec [[Emile Durkheim]]
 
 
-Premiere Partie
+Première Partie
 
 
 Premièrement, on peut penser, comme l'indique le questionnement principal, que la morale est uniquement et seulement une convention sociale. En effet, on peut se pencher sur la diversité des systèmes moraux à travers les continents et les époques : les différentes sociétés ont établi chacune des normes morales distinctes.
@@ -23,7 +23,7 @@ Ainsi, on peut aborder la thèse de [[Karl Marx]] sur l'infrastructure économiq
 
 On retrouve également cette idée chez [[Emile Durkheim]], qui dans _Les Formes élémentaires de la vie religieuse_, affirme que la morale est un produit des sociétés, destinée à assurer la cohésion sociale. Les règles morales sont donc façonnées par les besoins collectifs d'une communauté à un moment donné, ce qui confirme leur caractère contingent.
 
-
+f
 [[Friedrich Nietzsche]]
 [[Emmanuel Kant]]
 

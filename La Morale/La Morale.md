@@ -26,3 +26,50 @@ On retrouve également cette idée chez [[Emile Durkheim]], qui dans _Les Formes
 
 [[Friedrich Nietzsche]]
 [[Emmanuel Kant]]
+
+
+## Mon plan :
+
+### **I. La morale dépend uniquement d’une convention sociale**
+
+Dans cette partie, on montre que la morale n'est qu'une construction sociale, qui varie en fonction des contextes culturels, historiques et économiques.
+
+- **Diversité des systèmes moraux à travers les cultures et les époques :**
+    
+    - Les différentes sociétés ont développé des normes morales spécifiques en fonction de leurs conditions historiques et sociales. Cela démontre que la morale est façonnée par les circonstances sociales et n'est pas universelle.
+- **Transmission automatique de la morale :**
+    
+    - La morale est souvent transmise de manière mécanique, sans réflexion critique, de génération en génération. Ce processus d’apprentissage automatique montre que les individus intègrent des valeurs morales sans les remettre en question.
+- **Une convention au service des plus faibles :**
+    
+    - Certaines théories affirment que la morale est un moyen utilisé par les plus faibles pour se protéger des plus forts. Elle fonctionne donc comme un outil de maintien de l’ordre social en faveur des opprimés.  **Platon , Clémence Royer**
+
+
+
+### **II. La morale dépasse les conventions sociales**
+
+Cette partie explore l'idée que la morale est plus qu'un simple accord social, et qu'elle découle de principes universels liés à la nature humaine ou à la quête de justice.
+
+- **Une morale ancrée dans la nature humaine :**
+    
+    - La morale peut être vue comme émergeant spontanément des relations humaines et des besoins fondamentaux comme la solidarité. Elle serait donc le produit de notre nature, et non d'un accord social arbitraire.
+- **La morale guidée par la quête de vérité :**
+    
+    - La recherche de vérité et de justice mène à une conception morale qui transcende les contextes sociaux. Les individus, à travers leur quête intellectuelle, tendent à établir des principes moraux universels.
+- **Le rôle des croyances spirituelles :**
+    
+    - Dans certaines conceptions, la morale est intimement liée à des croyances spirituelles qui rappellent aux individus que la vie a un sens plus profond. Cela dépasse les simples conventions sociales, en offrant des valeurs transcendantes qui guident les comportements humains.
+
+
+
+### **III. Une morale évolutive et universelle**
+
+Dans cette dernière partie, on examine la notion d'une morale dynamique, en constante évolution, qui doit s’adapter aux réalités contemporaines et s’étendre vers une éthique globale.
+
+- **Une morale progressive et dynamique :**
+    
+    - La morale n'est jamais fixée. Elle exige un progrès constant, tant au niveau personnel que collectif. Avec l’évolution des sociétés, les normes morales doivent également être réformées pour répondre aux nouveaux défis sociaux et politiques.
+- **Vers une éthique globale :**
+    
+    - Enfin, on peut envisager une morale qui englobe une éthique environnementale, incluant toutes les formes de vie, et ne se limitant pas seulement aux conventions sociales humaines. Cette éthique élargit la portée de la morale au-delà des intérêts strictement humains.
+-

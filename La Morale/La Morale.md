@@ -28,16 +28,23 @@ On retrouve également cette idée chez [[Emile Durkheim]], qui dans _Les Formes
 
 
 Suite:
+
 On peut se dire que la morale est une création des sociétés, comme vu plus-tôt, qui structure le comportement des individus au sein du groupe. Mais une question se pose : qui en est le créateur ? D’où vient-elle et comment devient-elle presque automatique dans nos esprits ? La morale ne nous vient pas spontanément, elle se construit dès l’enfance, et c’est surtout au moment de l’éducation qu’elle s’imprime dans l’individu. C’est l’éducation qui impose les règles nécessaires pour maintenir la cohésion sociale. 
 
 Les premiers acteurs de cette transmission sont la famille et les parents. Mais ils ne sont pas les inventeurs de ces règles : ils ne font que relayer celles qui sont définies par la société. Autrement dit, les parents n’inventent pas les normes morales qu'ils inculquent à leurs enfants. Ils transmettent ce qui leur a été donné, les normes préétablies par la société dans laquelle ils vivent.
 
 Aujourd'hui, on constate que ce sont de moins en moins les parents qui éduquent l'enfant moralement, mais davantage l'école. Cette tendance aboutit à une généralisation de la morale, souvent à l’échelle d’un pays tout entier. On parle même de "Morale Républicaine", un ensemble de règles qui s’est construit au fil des siècles pour garantir une cohésion sociale à grande échelle.
 
-Émile Durkheim, à travers ses travaux, parle de cette évolution. Pour lui, la morale est avant tout un fait social imposé à l'individu. Elle permet d’assurer la solidarité et la cohésion du groupe. Ce n’est donc pas seulement la famille, mais surtout l’école qui, en formant les enfants, leur transmet les normes morales et les prépare à devenir des membres intégrés à la société.
+[[Emile Durkheim]], à travers ses travaux, parle de cette évolution. Pour lui, la morale est avant tout un fait social imposé à l'individu. Elle permet d’assurer la solidarité et la cohésion du groupe. Ce n’est donc pas seulement la famille, mais surtout l’école qui, en formant les enfants, leur transmet les normes morales et les prépare à devenir des membres intégrés à la société.
 
 
+suite:
 
+Dans cette deuxième partie, nous allons voir en quoi la morale n'est pas qu'une convention sociale, mais plutôt un besoin naturel humain. Cette idée implique que la morale n'est pas simplement une construction sociale, mais une expression des instincts fondamentaux qui régissent nos relations.
+
+Ainsi, la solidarité, la compassion et l'empathie ne sont pas seulement des vertus morales, mais des nécessités biologiques et psychologiques qui émergent de nos interactions avec autrui. Ces sentiments proviennent d'une époque où l'humain faisait encore pleinement partie de la nature, et ils pourraient être considérés comme des vestiges de cette époque lointaine. On peut donc se demander si ces normes sont encore d'actualité aujourd'hui et si l'humain moderne, face à des défis sociaux et environnementaux, est toujours capable de cultiver ces valeurs fondamentales.
+
+[[Jean-Jacques Rousseau]], par exemple, défend l'idée que la morale est inscrite dans notre nature. Pour lui, l'homme à l'état de nature est fondamentalement bon et possède des instincts moraux innés. Cependant, avec l’avènement de la société et des conventions, cet homme naturel serait corrompu par des règles arbitraires qui favorisent l'inégalité et l'égoïsme. Rousseau plaide donc pour un retour à une compréhension plus authentique de la morale, où les sentiments naturels de bonté et de solidarité seraient réhabilités. Cela soulève la question de savoir si, dans notre société moderne, nous pouvons retrouver cette essence morale innée et l’adapter à notre contexte actuel. Il devient alors crucial de réfléchir à la manière dont ces valeurs peuvent guider nos comportements et nos interactions, et si nous avons la capacité de les raviver face aux enjeux contemporains.
 f
 [[Friedrich Nietzsche]]
 [[Emmanuel Kant]]

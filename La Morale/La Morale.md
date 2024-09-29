@@ -25,6 +25,19 @@ Ainsi, on peut aborder la thèse de [[Karl Marx]] sur l'infrastructure économiq
 
 On retrouve également cette idée chez [[Emile Durkheim]], qui dans _Les Formes élémentaires de la vie religieuse_, affirme que la morale est un produit des sociétés, destinée à assurer la cohésion sociale. Les règles morales sont donc façonnées par les besoins collectifs d'une communauté à un moment donné, ce qui confirme leur caractère contingent.
 
+
+
+Suite:
+On peut se dire que la morale est une création des sociétés, comme vu plus-tôt, qui structure le comportement des individus au sein du groupe. Mais une question se pose : qui en est le créateur ? D’où vient-elle et comment devient-elle presque automatique dans nos esprits ? La morale ne nous vient pas spontanément, elle se construit dès l’enfance, et c’est surtout au moment de l’éducation qu’elle s’imprime dans l’individu. C’est l’éducation qui impose les règles nécessaires pour maintenir la cohésion sociale. 
+
+Les premiers acteurs de cette transmission sont la famille et les parents. Mais ils ne sont pas les inventeurs de ces règles : ils ne font que relayer celles qui sont définies par la société. Autrement dit, les parents n’inventent pas les normes morales qu'ils inculquent à leurs enfants. Ils transmettent ce qui leur a été donné, les normes préétablies par la société dans laquelle ils vivent.
+
+Aujourd'hui, on constate que ce sont de moins en moins les parents qui éduquent l'enfant moralement, mais davantage l'école. Cette tendance aboutit à une généralisation de la morale, souvent à l’échelle d’un pays tout entier. On parle même de "Morale Républicaine", un ensemble de règles qui s’est construit au fil des siècles pour garantir une cohésion sociale à grande échelle.
+
+Émile Durkheim, à travers ses travaux, parle de cette évolution. Pour lui, la morale est avant tout un fait social imposé à l'individu. Elle permet d’assurer la solidarité et la cohésion du groupe. Ce n’est donc pas seulement la famille, mais surtout l’école qui, en formant les enfants, leur transmet les normes morales et les prépare à devenir des membres intégrés à la société.
+
+
+
 f
 [[Friedrich Nietzsche]]
 [[Emmanuel Kant]]

@@ -35,7 +35,7 @@ Le terme _aliénation_ désigne un état de séparation ou de perte de contrôle
 
 #### **Solutions proposées :**
 
-- **Marx** : La fin de l’aliénation passerait par une révolution qui abolirait le capitalisme et donnerait aux travailleurs le contrôle sur les moyens de production.
+- **Marx** : La fin de l’aliénation passerait par une ==révolution== qui abolirait le capitalisme et donnerait aux travailleurs le contrôle sur les moyens de production.
 - **Réflexions modernes** : Certains plaident pour plus d’autonomie dans le travail, des conditions plus humaines, et des alternatives comme le revenu universel pour éviter les emplois précaires.
 
 #### **Conclusion :**

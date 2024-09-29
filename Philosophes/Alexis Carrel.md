@@ -1,0 +1,1 @@
+Il naît en 1871 et meurt en 1944. Il est un scientiste convaincu, il fit des recherches pour le Général Pétain sur la "Famille". On peut le voir comme un eugéniste au même titre que [[Clémence Royer]].

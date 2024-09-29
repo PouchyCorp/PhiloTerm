@@ -5,9 +5,9 @@ proverbe bouddhiste :
 eugenisme, craniologie
 
 #### la valeur, un terme extremement vaste:
-- **Économique** : La valeur économique d’un bien ou d’un service est le montant qu’il est considéré comme équivalent pour quelque chose d’autre, compte tenu de son coût, de l’offre et de la demande. -> ===valeur marchande ===
+- **Économique** : La valeur économique d’un bien ou d’un service est le montant qu’il est considéré comme équivalent pour quelque chose d’autre, compte tenu de son coût, de l’offre et de la demande. -> ===valeur marchande intraseque ?===
 - **Philosophique** : La valeur est issue du latin “valere”, signifiant “valoir” ou “être digne d’estime”. Elle désigne la qualité d’une chose qui la rend objectivement désirable, et se retrouve dans plusieurs domaines, tels que la morale, l’esthétique, la logique et l’économie.
-- **Morale** : La valeur peut également désigner ce qui doit guider la conduite, comme le Bien selon Platon, ou la liberté selon Jean-Paul Sartre. ===la science est   ===
+- **Morale** : La valeur peut également désigner ce qui doit guider la conduite, comme le Bien selon Platon, ou la liberté selon Jean-Paul Sartre. -> ===la science est elle bégnine ?===
 - **Psychologique** : La valeur d’une personne correspond à sa manière d’être ou d’agir, reconnue comme importante par une personne ou un groupe de personnes, et qui rend cette personne estimable ou désirable.
 - **Professionnel** : La valeur professionnelle correspond à l’ensemble des compétences professionnelles et des expériences pouvant être mises en avant au cours d’une candidature.
 #### lien avec la philo

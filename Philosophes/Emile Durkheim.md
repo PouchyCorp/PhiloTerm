@@ -6,3 +6,4 @@ Le Fait social pour Durkheim relève en quelque sorte de [[La Morale]] .
 
 Invention de la Sociologie
 
+Durkheim considère aussi que les sciences en général et tout particulièrement les sciences sociales sont nécessaires au bon fonctionnement de la Démocratie.

@@ -45,6 +45,7 @@ le sujet nous invite comparer avec la connaissance metaphysique
 des valeurs differentes -> positivisme / scientisme
 > la science est la seule forme de connaissance rigoureuse
 
+
 pour les scientistes -> la valeur de la connaissance scientifique est absolue :
 les mechanitus ?
 C. Royer

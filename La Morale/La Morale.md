@@ -45,7 +45,19 @@ Dans cette deuxième partie, nous allons voir en quoi la morale n'est pas qu'une
 Ainsi, la solidarité, la compassion et l'empathie ne sont pas seulement des vertus morales, mais des nécessités biologiques et psychologiques qui émergent de nos interactions avec autrui. Ces sentiments proviennent d'une époque où l'humain faisait encore pleinement partie de la nature, et ils pourraient être considérés comme des vestiges de cette époque lointaine. On peut donc se demander si ces normes sont encore d'actualité aujourd'hui et si l'humain moderne, face à des défis sociaux et environnementaux, est toujours capable de cultiver ces valeurs fondamentales.
 
 [[Jean-Jacques Rousseau]], par exemple, défend l'idée que la morale est inscrite dans notre nature. Pour lui, l'homme à l'état de nature est fondamentalement bon et possède des instincts moraux innés. Cependant, avec l’avènement de la société et des conventions, cet homme naturel serait corrompu par des règles arbitraires qui favorisent l'inégalité et l'égoïsme. Rousseau plaide donc pour un retour à une compréhension plus authentique de la morale, où les sentiments naturels de bonté et de solidarité seraient réhabilités. Cela soulève la question de savoir si, dans notre société moderne, nous pouvons retrouver cette essence morale innée et l’adapter à notre contexte actuel. Il devient alors crucial de réfléchir à la manière dont ces valeurs peuvent guider nos comportements et nos interactions, et si nous avons la capacité de les raviver face aux enjeux contemporains.
-f
+
+
+Dumoins, on pourrait se dire que la morale n'est ni une convention sociale ni une idée pure qui viendrait naturellement à l'humain. Elle serait plutôt une réalité métaphysique, quelque chose qui transcenderait l’humain, un concept offert à l’humanité par Dieu. La croyance en l’immortalité de l’âme fournit alors une base solide à la morale, en avançant que nos actions ne se limitent pas aux conséquences immédiates, mais s'inscrivent dans une perspective bien plus large.
+
+C’est ce que Tocqueville défend lorsqu'il met en garde contre le matérialisme croissant dans les démocraties. Selon lui, cette obsession des besoins matériels menace la morale. Il rappelle que la religion, et en particulier la croyance en une âme immortelle, préserve une dimension morale supérieure. Elle incite les individus à adopter une conduite qui va au-delà des simples règles sociales, en se basant sur des principes universels et éternels.
+
+Ainsi, la morale ne serait pas juste un instrument de cohésion sociale ou un instinct naturel. Elle viendrait de cette croyance en des principes plus élevés, transmis par Dieu, qui donnent un sens profond à nos actions.
+
+
+Finalement, la morale pourrait être perçue comme le fruit du dépassement des normes sociales et de l'immédiateté des émotions ou des intérêts personnels. Dans cette optique, elle devient une démarche volontaire et réfléchie, permettant à l'individu de s'émanciper des contraintes immédiates pour définir ce qui est juste ou injuste. En s’éloignant des désirs de l’instant, l’individu peut alors réfléchir à des principes moraux plus profonds, valables pour tous. Cette approche repose sur l’idée que la moralité est universelle, s’appliquant à chaque être humain, quelle que soit sa situation, et ne dépendant ni des passions ni des contextes particuliers.
+
+
+
 [[Friedrich Nietzsche]]
 [[Emmanuel Kant]]
 

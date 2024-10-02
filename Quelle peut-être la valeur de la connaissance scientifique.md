@@ -96,5 +96,5 @@ la valeur pratique est qq chose que la metaphysique n'a pas
 >reseaux sociaux addictifs
 >progres technique -> chomage
 
-Mais est-ce vrm la faute de la science ? G. Bachelor
->{...} des coutumes juridiques où le couteau portait la responsabilité du crime. N'est-ce pas par un jugement similaire qu'on prétend donner une responsabilité à la science touchant l'énorme cruauté des âmes modernes ?
+Mais est-ce vrm la faute de la science ? [[Gaston Bachelard]]
+>9

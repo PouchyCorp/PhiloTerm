@@ -56,6 +56,8 @@ Alexis Carel
 des valeurs différentes -> positivisme / scientisme
 > la science est la seule forme de connaissance rigoureuse
 
+valeurs de la metaphysique -> apporter de l'ordre (pretre du cours)
+
 mais -> la science n'est pas digne de gouverner la société ou de dicter la morale pour les positivistes
 
 [[Gaston Bachelard]]
@@ -80,6 +82,7 @@ la connaissance scientifique au service de l'humanité
 > eugenisme, craniologie 
 >caractere innaretable de la science, meme si elle ne va pas en de bonne voies
 >reseaux sociaux addictifs
+>progres technique -> chomage
 
 Mais est-ce vrm la faute de la science ? G. Bachelor
 >{...} des coutumes juridiques où le couteau portait la responsabilité du crime. N'est-ce pas par un jugement similaire qu'on prétend donner une responsabilité à la science touchant l'énorme cruauté des âmes modernes ?

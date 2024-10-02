@@ -1,5 +1,5 @@
 
-##### Problématique : quel sont les différents aspects qui rendent [[la science]] desirable ?
+##### Problématique : [[la science]] est-elle digne d'estime ?
 
 proverbe bouddhiste : 
 "Chaque homme reçoit la clé de la porte du paradis ; la même clé ouvre les portes de l'enfer"
@@ -56,11 +56,19 @@ Alexis Carel
 des valeurs différentes -> positivisme / scientisme
 > la science est la seule forme de connaissance rigoureuse
 
+objectivité : [[Karl Popper]] 
+
+- Popper ne prétend pas que la science atteint une vérité absolue, mais plutôt qu’elle se rapproche de la vérité en éliminant les théories incorrectes.
+
+le principe de falsifiabilité comme un critère central pour distinguer les sciences de la metaphysique
+
+toute connaissance dérive de l'expérience [[David Hume]]
+
 valeurs de la metaphysique -> apporter de l'ordre (pretre du cours)
 
-mais -> la science n'est pas digne de gouverner la société ou de dicter la morale pour les positivistes
+==La science progresse donc vers la vérité
 
-[[Gaston Bachelard]]
+mais -> la science n'est pas digne de gouverner la société ou de dicter la morale pour les positivistes
 
 ## 2. La valeur pratique 
 
@@ -71,7 +79,7 @@ connaissance scientifique -> technique ([[René Descartes]]) -> amelioration de 
 
 la connaissance scientifique au service de l'humanité
 
-
+la valeur pratique est qq chose que la metaphysique n'a pas
 ## 3. La valeur morale ?
 
 - La science fait le bien (medecine, comfort, egalité (h-f))

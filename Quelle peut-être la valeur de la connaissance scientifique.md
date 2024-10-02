@@ -79,6 +79,8 @@ connaissance scientifique -> technique ([[René Descartes]]) -> amelioration de 
 
 la connaissance scientifique au service de l'humanité
 
+valeur economique ?
+
 la valeur pratique est qq chose que la metaphysique n'a pas
 ## 3. La valeur morale ?
 

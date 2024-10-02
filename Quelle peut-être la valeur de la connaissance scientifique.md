@@ -64,6 +64,8 @@ le principe de falsifiabilité comme un critère central pour distinguer les sci
 
 toute connaissance dérive de l'expérience [[David Hume]]
 
+cumulativité
+
 valeurs de la metaphysique -> apporter de l'ordre (pretre du cours)
 
 ==La science progresse donc vers la vérité

@@ -9,6 +9,16 @@ La question qui nous est posée concerne cette notion de bien et de mal. On qual
 
 Pour répondre à ces interrogations, nous montrerons d'abord que la morale peut être considérée comme une convention sociale. Ensuite, nous examinerons les arguments qui soutiennent l'idée qu'elle transcende l'humain. Enfin, nous proposerons des réflexions plus poussées sur la morale et son rôle dans notre société.
 
+-------
+
+Le terme « morale » tire son origine du latin *moralis*, dérivé de *mores*, qui signifie "mœurs" ou "coutumes". Dès son étymologie, la morale semble donc étroitement liée aux pratiques sociales. Elle est dictée par les notions de bien et de mal, tandis que la convention sociale renvoie à un accord, souvent implicite, entre les membres d'une société pour établir des normes de comportement, soit acceptées, soit rejetées. Ces deux concepts soulignent la distinction entre ce qui est acceptable et inacceptable. Par conséquent, il semble que la morale, en tant que jugement sur les actions humaines, soit intrinsèquement liée aux conventions sociales, ce qui nous amène à nous interroger sur la nature même de la morale.
+
+La question qui se pose concerne cette notion de bien et de mal : est-elle simplement le résultat d'un accord entre les individus, établi au fil des siècles, ou bien est-elle naturelle, innée et universelle ? L'humain est-il doté d'une morale dès sa naissance ou depuis sa création ? Pourrait-on également envisager que la morale soit engendrée, non par une convention arbitraire, mais par un usage universel de la raison ?
+
+Pour répondre à ces interrogations, nous montrerons d'abord que la morale peut être considérée comme une convention sociale, ancrée dans les pratiques et les normes d'une société donnée. Ensuite, nous examinerons les arguments qui soutiennent l'idée qu'elle transcende l'humain et se fonde sur des principes universels. ==Enfin, nous aborderons le rôle de la morale dans la construction de l'identité sociale et individuelle, ainsi que son impact sur nos comportements au quotidien.==
+
+
+
 "un système de règles de conduite" [[Emile Durkheim]] Une réponse Sociologique de la provenance de La morale. 
 
 Vidéo simple explication de la morale https://youtu.be/HlY7QBapCM4?si=f4vWAiNJXlsW9C8Q avec [[Emile Durkheim]]
@@ -28,7 +38,7 @@ On retrouve également cette idée chez [[Emile Durkheim]], qui dans _Les Formes
 
 ### 2
 
-On peut se dire que la morale est une création des sociétés, comme vu plus-tôt, qui structure le comportement des individus au sein du groupe. Mais une question se pose : qui en est le créateur ? D’où vient-elle et comment devient-elle presque automatique dans nos esprits ? La morale ne nous vient pas spontanément, elle se construit dès l’enfance, et c’est surtout au moment de l’éducation qu’elle s’imprime dans l’individu. C’est l’éducation qui impose les règles nécessaires pour maintenir la cohésion sociale. 
+On peut se dire que la morale est une création des sociétés, comme vu plus-tôt, qui structure le comportement des individus au sein du groupe. Mais une question se pose : qui en est le créateur ? D’où vient-elle et comment devient-elle presque automatique dans nos esprits ? La morale ne nous vient pas spontanément, elle apparait dès l’enfance, et c’est surtout au moment de l’éducation qu’elle s’imprime dans l’individu. C’est l’éducation qui impose les règles nécessaires pour maintenir la cohésion sociale. 
 
 Les premiers acteurs de cette transmission sont la famille et les parents. Mais ils ne sont pas les inventeurs de ces règles : ils ne font que relayer celles qui sont définies par la société. Autrement dit, les parents n’inventent pas les normes morales qu'ils inculquent à leurs enfants. Ils transmettent ce qui leur a été donné, les normes préétablies par la société dans laquelle ils vivent.
 
@@ -42,23 +52,24 @@ Aujourd'hui, on constate que ce sont de moins en moins les parents qui éduquent
 ### 1
 Dans cette deuxième partie, nous allons voir en quoi la morale n'est pas qu'une convention sociale, mais plutôt un besoin naturel humain. Cette idée implique que la morale n'est pas simplement une construction sociale, mais une expression des instincts fondamentaux qui régissent nos relations.
 
-Ainsi, la solidarité, la compassion et l'empathie ne sont pas seulement des vertus morales, mais des nécessités biologiques et psychologiques qui émergent de nos interactions avec autrui. Ces sentiments proviennent d'une époque où l'humain faisait encore pleinement partie de la nature, et ils pourraient être considérés comme des vestiges de cette époque lointaine. On peut donc se demander si ces normes sont encore d'actualité aujourd'hui et si l'humain moderne, face à des défis sociaux et environnementaux, est toujours capable de cultiver ces valeurs fondamentales.
+Ainsi, la solidarité, la compassion et l'empathie peuvent ne pas apparaitre comme des vertus morales, mais des nécessités biologiques et psychologiques qui émergent de nos interactions avec autrui. Ces sentiments proviennent d'une époque où l'humain faisait encore pleinement partie de la nature, et ils pourraient être considérés comme des vestiges de cette époque lointaine. On peut donc se demander si ces normes sont encore d'actualité aujourd'hui et si l'humain moderne, face à des défis sociaux et environnementaux, est toujours capable de cultiver ces valeurs fondamentales.
 
 [[Jean-Jacques Rousseau]], par exemple, défend l'idée que la morale est inscrite dans notre nature. Pour lui, l'homme à l'état de nature est fondamentalement bon et possède des instincts moraux innés. Cependant, avec l’avènement de la société et des conventions, cet homme naturel serait corrompu par des règles arbitraires qui favorisent l'inégalité et l'égoïsme. Rousseau plaide donc pour un retour à une compréhension plus authentique de la morale, où les sentiments naturels de bonté et de solidarité seraient réhabilités. Cela soulève la question de savoir si, dans notre société moderne, nous pouvons retrouver cette essence morale innée et l’adapter à notre contexte actuel. Il devient alors crucial de réfléchir à la manière dont ces valeurs peuvent guider nos comportements et nos interactions, et si nous avons la capacité de les raviver face aux enjeux contemporains.
 
 ### 2
-Du moins, on pourrait se dire que la morale n'est ni une convention sociale ni une idée pure qui viendrait naturellement à l'humain. Elle serait plutôt une réalité métaphysique, quelque chose qui transcenderait l’humain, un concept offert à l’humanité par Dieu. La croyance en l’immortalité de l’âme fournit alors une base solide à la morale, en avançant que nos actions ne se limitent pas aux conséquences immédiates, mais s'inscrivent dans une perspective bien plus large.
+Du moins, on pourrait se dire que la morale n'est ni une convention sociale ni une idée pure qui viendrait naturellement à l'humain. Elle serait plutôt une réalité métaphysique, quelque chose qui transcenderait l’humain, un concept offert à l’humanité par un dieu. Dans  plusieurs religions, notamment la croyance en l’immortalité de l’âme fournit alors une base solide à la morale, en avançant que nos actions ne se limitent pas aux conséquences immédiates, mais s'inscrivent dans une perspective bien plus large.
 
 C’est ce que Tocqueville défend lorsqu'il met en garde contre le matérialisme croissant dans les démocraties. Selon lui, cette obsession des besoins matériels menace la morale. Il rappelle que la religion, et en particulier la croyance en une âme immortelle, préserve une dimension morale supérieure. Elle incite les individus à adopter une conduite qui va au-delà des simples règles sociales, en se basant sur des principes universels et éternels.
 
 Ainsi, la morale ne serait pas juste un instrument de cohésion sociale ou un instinct naturel. Elle viendrait de cette croyance en des principes plus élevés, transmis par Dieu, qui donnent un sens profond à nos actions.
 
-
-## Troisième partie
-
+### 3
 Finalement, la morale pourrait être perçue comme le fruit du dépassement des normes sociales, ainsi que de l’immédiateté des sentiments et des impulsions émotionnelles, voire des intérêts personnels. Dans cette optique, la morale se transforme en une démarche volontaire et réfléchie, permettant à l’individu de s’émanciper des désirs immédiats pour déterminer ce qui est véritablement bon ou mauvais. Il s’agit d’une quête d’objectivité qui vise à élever la réflexion morale au-delà des simples contingences du moment.
 
-Cette approche repose sur l’idée que la moralité est universelle, applicable à tous, indépendamment des contextes sociaux ou personnels. Ainsi, la morale ne se limite pas à réguler les interactions sociales ; elle aspire à établir des principes qui transcendent les particularités de chaque situation. Elle devient un outil de discernement rationnel, incitant chacun à agir selon des valeurs jugées justes en tout temps et en tout lieu.
+Cette approche repose sur l’idée que la moralité est universelle, applicable à tous, indépendamment des contextes sociaux ou personnels. Ainsi, la morale ne se limite pas à réguler les interactions sociales ; elle aspire à établir des principes qui transcendent les particularités de chaque situation. Elle devient un outil de discernement rationnel, incitant chacun à agir selon des valeurs jugées justes en tout temps et en tout lieu.[ [Emmanuel Kant]]
+## Troisième partie
+
+
 
 
 

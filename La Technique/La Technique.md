@@ -25,3 +25,5 @@ Def rigoureuse: "Une disposition vers la creation et accompagnée de raison"
 ### La technique et le travail
 
 "Le progrès technique est une **destruction créatrice** d'emploi" J. Schumpeter
+
+"Un processus centré vers la création accompagné de raison" Socrate
